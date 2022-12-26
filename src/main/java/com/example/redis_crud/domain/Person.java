@@ -1,4 +1,4 @@
-package com.example.realjpa.domain;
+package com.example.redis_crud.domain;
 
 import lombok.*;
 

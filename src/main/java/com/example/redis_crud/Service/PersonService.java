@@ -1,7 +1,7 @@
-package com.example.realjpa.Service;
+package com.example.redis_crud.Service;
 
-import com.example.realjpa.domain.Person;
-import com.example.realjpa.repository.PersonRepository;
+import com.example.redis_crud.domain.Person;
+import com.example.redis_crud.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

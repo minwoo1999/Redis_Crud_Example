@@ -1,6 +1,6 @@
-package com.example.realjpa.repository;
+package com.example.redis_crud.repository;
 
-import com.example.realjpa.domain.Person;
+import com.example.redis_crud.domain.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

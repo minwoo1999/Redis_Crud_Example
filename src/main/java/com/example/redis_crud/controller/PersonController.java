@@ -1,8 +1,8 @@
-package com.example.realjpa.controller;
+package com.example.redis_crud.controller;
 
 
-import com.example.realjpa.Service.PersonService;
-import com.example.realjpa.domain.Person;
+import com.example.redis_crud.Service.PersonService;
+import com.example.redis_crud.domain.Person;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
